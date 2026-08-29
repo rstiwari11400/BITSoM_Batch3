@@ -1,0 +1,49 @@
+Student_ID,Name,City,Gender,Course,Month,Study_Hours,Attendance_Percentage,Assignment_Score,Exam_Score,Sleep_Hours,Screen_Time_Hours,Monthly_Expense_Rupees,Transport_Mode
+1,Aarav,Delhi,Male,BBA,January,3.0,78,68,70,7.0,4.5,8500,Metro
+1,Aarav,Delhi,Male,BBA,February,3.5,80,72,74,7.0,4.0,8700,Metro
+1,Aarav,Delhi,Male,BBA,March,4.0,84,76,78,6.8,3.8,8900,Metro
+1,Aarav,Delhi,Male,BBA,April,4.5,86,80,82,6.7,3.5,9100,Metro
+2,Ananya,Mumbai,Female,BCom,January,4.0,85,75,78,7.5,3.5,12000,Local Train
+2,Ananya,Mumbai,Female,BCom,February,4.2,87,78,80,7.3,3.4,12200,Local Train
+2,Ananya,Mumbai,Female,BCom,March,4.5,90,82,84,7.2,3.2,12400,Local Train
+2,Ananya,Mumbai,Female,BCom,April,5.0,92,86,88,7.0,3.0,12600,Local Train
+3,Rohan,Bengaluru,Male,BTech,January,5.0,88,82,85,6.5,5.0,11000,Bike
+3,Rohan,Bengaluru,Male,BTech,February,5.5,90,85,88,6.4,4.8,11200,Bike
+3,Rohan,Bengaluru,Male,BTech,March,6.0,92,88,90,6.3,4.5,11500,Bike
+3,Rohan,Bengaluru,Male,BTech,April,6.5,94,91,93,6.2,4.2,11800,Bike
+4,Meera,Chennai,Female,BA,January,2.5,70,60,62,8.0,5.5,7000,Bus
+4,Meera,Chennai,Female,BA,February,3.0,74,65,66,7.8,5.0,7200,Bus
+4,Meera,Chennai,Female,BA,March,3.2,76,68,69,7.6,4.8,7400,Bus
+4,Meera,Chennai,Female,BA,April,3.8,80,72,74,7.5,4.4,7600,Bus
+5,Kabir,Kolkata,Male,BSc,January,4.5,82,74,76,7.0,4.2,8000,Metro
+5,Kabir,Kolkata,Male,BSc,February,4.8,84,77,79,6.9,4.0,8200,Metro
+5,Kabir,Kolkata,Male,BSc,March,5.2,87,81,83,6.8,3.7,8400,Metro
+5,Kabir,Kolkata,Male,BSc,April,5.5,89,84,86,6.7,3.5,8600,Metro
+6,Priya,Jaipur,Female,BBA,January,3.5,76,70,72,7.5,4.8,6500,Auto
+6,Priya,Jaipur,Female,BBA,February,3.8,79,73,75,7.4,4.5,6700,Auto
+6,Priya,Jaipur,Female,BBA,March,4.0,82,76,78,7.2,4.2,6900,Auto
+6,Priya,Jaipur,Female,BBA,April,4.4,84,80,82,7.0,3.9,7100,Auto
+7,Aditya,Pune,Male,BCom,January,2.0,68,55,58,6.5,6.0,7500,Bus
+7,Aditya,Pune,Male,BCom,February,2.5,72,60,62,6.6,5.6,7700,Bus
+7,Aditya,Pune,Male,BCom,March,3.0,75,64,66,6.8,5.2,7900,Bus
+7,Aditya,Pune,Male,BCom,April,3.5,78,68,70,7.0,4.8,8100,Bus
+8,Sneha,Hyderabad,Female,BTech,January,5.5,91,86,88,6.8,3.8,10000,Metro
+8,Sneha,Hyderabad,Female,BTech,February,5.8,93,88,90,6.7,3.6,10200,Metro
+8,Sneha,Hyderabad,Female,BTech,March,6.2,95,91,93,6.6,3.4,10400,Metro
+8,Sneha,Hyderabad,Female,BTech,April,6.8,96,94,95,6.5,3.2,10600,Metro
+9,Ishaan,Ahmedabad,Male,BSc,January,3.0,73,63,65,7.2,5.2,6800,Bike
+9,Ishaan,Ahmedabad,Male,BSc,February,3.4,76,67,69,7.1,4.9,7000,Bike
+9,Ishaan,Ahmedabad,Male,BSc,March,3.7,79,70,72,7.0,4.6,7200,Bike
+9,Ishaan,Ahmedabad,Male,BSc,April,4.0,82,74,76,6.9,4.3,7400,Bike
+10,Nisha,Lucknow,Female,BA,January,4.0,81,72,75,8.0,4.0,6000,Bus
+10,Nisha,Lucknow,Female,BA,February,4.3,84,76,78,7.8,3.8,6200,Bus
+10,Nisha,Lucknow,Female,BA,March,4.7,86,79,81,7.6,3.5,6400,Bus
+10,Nisha,Lucknow,Female,BA,April,5.0,89,83,85,7.5,3.3,6600,Bus
+11,Arjun,Indore,Male,BBA,January,2.8,71,62,64,7.0,5.8,6200,Auto
+11,Arjun,Indore,Male,BBA,February,3.1,74,66,68,7.1,5.4,6400,Auto
+11,Arjun,Indore,Male,BBA,March,3.6,78,70,72,7.0,5.0,6600,Auto
+11,Arjun,Indore,Male,BBA,April,4.0,81,74,76,6.9,4.6,6800,Auto
+12,Tanya,Kochi,Female,BCom,January,4.8,86,80,82,7.4,3.8,7200,Bus
+12,Tanya,Kochi,Female,BCom,February,5.0,88,83,85,7.3,3.6,7400,Bus
+12,Tanya,Kochi,Female,BCom,March,5.4,91,86,88,7.2,3.4,7600,Bus
+12,Tanya,Kochi,Female,BCom,April,5.8,93,90,91,7.0,3.1,7800,Bus
