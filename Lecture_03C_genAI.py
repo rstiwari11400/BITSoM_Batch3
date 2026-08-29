@@ -1,8 +1,7 @@
 from google import genai
 from google.genai import errors
-from Function_Folder1.myfunctions01 import print_colored_message
 
-client = genai.Client(api_key="AQ.Ab8RN6JNm2fBoGd5ZTTGAwIyCb-CzPsJQRdHUlj_R8X_PJ3X3w")
+client = genai.Client(api_key="APIKey")
 
 question = input("Ask Gemini: ")
 
@@ -12,7 +11,7 @@ try:
         contents=question
     )
 
-    print_colored_message("Gemini: " + response.text, "green")
+    print("Gemini: " + response.text)
 
 except errors.APIError as e:
     print("Gemini API error:", e)
